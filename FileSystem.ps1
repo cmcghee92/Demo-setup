@@ -7,7 +7,7 @@
 Cd C:\
 
 # 2
-Set-Location C:\Windows
+Set-Location C:\Windows\system32
 
 # 3
 New-PSDrive –Name WINDIR –Root C:\Windows –PSProvider FileSystem
