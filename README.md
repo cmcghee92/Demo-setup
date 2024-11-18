@@ -1,1 +1,2 @@
 # Demo-setup
+Christian McGhee
