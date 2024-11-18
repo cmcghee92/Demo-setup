@@ -1,5 +1,7 @@
 ﻿# Copy the contents of this file into the scripting pane of the ISE. 
 # Highlight one line and press F8 to execute just that line. 
+#this is an edit
+# This is another Edit
 
 # 1
 Cd C:\
